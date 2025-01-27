@@ -1,6 +1,8 @@
 # tampilan-termux
 Ubah tampilan termux versi clear
 
+$ pkg install nodejs-lts
+
 $ pkg install git -y
 
 $ pkg install python2 -y
