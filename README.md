@@ -8,7 +8,7 @@ $ pkg install python2 -y
 $ pkg install bash -y
 
 
-$ git clone https://github.com/mapelvader/termux-style
+$ git clone https://github.com/mapelvader/termux-clear
 
 $ cd termux-style
 
