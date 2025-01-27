@@ -10,7 +10,7 @@ $ pkg install bash -y
 
 $ git clone https://github.com/mapelvader/termux-clear
 
-$ cd termux-style
+$ cd termux-clear
 
 $ ls
 
